@@ -9,7 +9,7 @@
 
 -----
 
-![ice](ice.png "ice")
+![ice](ice.jpg "ice")
 
 - [ ] to do list
 - [x] 買書
