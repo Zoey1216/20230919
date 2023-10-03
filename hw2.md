@@ -1,12 +1,13 @@
 # 專案管理
 
 ## PERT/CPM 圖
+![image](https://github.com/Zoey1216/20230919/assets/145433039/bc65d6f3-a655-41d5-8cca-2a34585bf4b1)
 
 
 ## 甘特圖
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title hw2
 
     section Section
     研擬計畫     :a1, 2023-10-03, 1d
@@ -31,4 +32,4 @@ gantt
 
 ## 關鍵路徑
 
-
+1 -> 2 -> 4 -> 6 -> 9 -> 11
